@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test auto deploy 
+          Deployed by Jenkins 
         </p>
         <a
           className="App-link"
